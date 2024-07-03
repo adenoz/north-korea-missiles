@@ -6,7 +6,7 @@ This R Markdown Notebook aims to explore the public North Korean missile test da
 
 ## The data
 
-The data was obtained from the [James Martin Center for Nonproliferation Studies (CNS)](). The data is saved in two seperate though related CSV files being one for the actual missile tests (`Missile_Tests.csv`) and one containing more details of the facilities (`Facilities.csv`). Details and explanations of the data is explained further in the R Markdown notebook.
+The data was obtained from the [James Martin Center for Nonproliferation Studies (CNS)](https://www.nti.org/analysis/articles/cns-north-korea-missile-test-database/). The data is saved in two seperate though related CSV files being one for the actual missile tests (`Missile_Tests.csv`) and one containing more details of the facilities (`Facilities.csv`). Details and explanations of the data is explained further in the R Markdown notebook.
 
 ## The focus
 
